@@ -1,0 +1,29 @@
+{
+  "name": "yatu",
+  "version": "1.0.0",
+  "description": "Admin Dashboard for Managing the Football Yatu app.",
+  "main": "index.php",
+  "dependencies": {
+    "grunt": "^1.0.4"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.php"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chobela/YatuDashboard.git"
+  },
+  "keywords": [
+    "Dashboard"
+  ],
+  "author": "Chobela Kakumbi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chobela/YatuDashboard/issues"
+  },
+  "homepage": "https://github.com/chobela/YatuDashboard#readme"
+}

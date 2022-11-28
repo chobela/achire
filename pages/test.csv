@@ -1,0 +1,3 @@
+Ref,account,nrc,name,employer,phone,email,next_kin,kin_phone,address,town,owing,collected,write_off,disputed,handed_back,currency,status
+Ref Number of debtor,Debtors account number,000000/00/1,debtors name,debtors employer,debtors phonestarting with 260,debtors email,debtors next kin name,,debtors address,,outsourced amount,0,0,0,0,ZMW,1 is default
+7782646,8274342698,367333/11/1,Chobela Kakumbi,Achire,260977222222,chobelak@gmail.com,John Kakumbi,966777777,Test Address,Lusaka,2000,500,100,0,0,ZMW,1

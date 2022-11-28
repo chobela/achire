@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice">You are still in debt with test Company. You still owe 1000 Kwacha. Please make payment to avoid penalties. Thank you.</Say>
+<!-- <Play>http://demo.twilio.com/docs/classic.mp3</Play> -->
+</Response>
